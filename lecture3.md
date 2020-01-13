@@ -12,7 +12,7 @@ Einführung von Software kann Redesign von Arbeitstätigkeiten beinhalten.
   Inanspruchnahme von Fähigkeiten und damit Stress und Monotonie
 
 **Arbeitsorientiertes Konzepte:**
-- Entwicklung von Arbeitemitteln, Arbeitsstrukturen und menschlichen Qualifikationen in ihrer Interpedenz, gemeinsame Optimierung
+- Entwicklung von Arbeitsmitteln, Arbeitsstrukturen und menschlichen Qualifikationen in ihrer Interpedenz, gemeinsame Optimierung
 
 ### Nennen Sie mögliche Belastungsquellen und Stressoren, die mit der Einführung interaktiver Computersystemen am Arbeitsplatz verbunden sein können.
 
