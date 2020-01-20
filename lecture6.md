@@ -24,8 +24,3 @@ Zur Gestaltung benutzerfreundlicher Bildschirmmasken werden häufig Gestaltgeset
     - Ablenkungen von der Aufgabe
 
 - vermittele kurzzyklisches Feedback
-
-### Kennzeichnen Sie Gestaltungsimplikationen für Software, die aus der Funktionsweise des Langzeitgedächtnisses resultieren.
-- Verwendung gelernter Befehle, Strukturen, Menüs etc. um Interferenzen zu vermeiden und Wiedererkennung zu ermöglichen
-
-### Worin bestehen Vorteile von GUIs (im Gegensatz zu CUIs) aus gedächtnispsychologischer Perspektive?
