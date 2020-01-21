@@ -35,7 +35,40 @@
 ### Welche Konsequenzen ergeben sich aus Fitts' Gesetz für die Gestaltung von Benutzungsoberflächen?
 
 ### Erläutern Sie das GOMS-Modell an Hand der Kernkomponenten des Modells.
+Methode, um eine Aufgabe und das Wissen des Nutzers, wie man diese Aufgabe löst, zu beschreiben.
+- **Goals:** Ziele des Benutzers
+- **Operators:** Aktionen, die die Software dem Benutzer ermöglicht (CUI --> Befehle / GUI --> Menüs, Buttons etc.)
+- **Methods:** Gelernte Sequenzen von Teilzielen und Operatoren, um ein Ziel zu erreichen
+- **Selection Rules:** Persönliche Regeln, denen Nutzer folgen, wenn es darum geht, zu entscheiden, welche Methode unter bestimmten Umständen zu nutzen ist
+
+Bsp.:
+The fox jumps over the lazy quick brown dog.
+- **top-level-goal:** move "quick brown" before "fox"
+- **subgoal:** highlight text
+- **operators:**
+    - move mouse
+    - click mouse button
+    - type characters
+- **methods:**
+    - for the editing goal:
+        1. delete word and retype
+        2. cut-and-paste using keyboard shortcuts
+        3. cut-and-paste using menus
+    - for the highlighting subgoal:
+        1. drag across text
+        2. double click first, shift click last
+- **selection rules:**
+    - for the editing goal:
+        - if test is only one or two chars long --> use retpye method
+        - else if remember shortcuts --> use shortcut method
+        - else use all-clicking method
+    - for the highlighting subgoal:
+        - if text to be moved not whole words --> use dragging method
+        - else use all-clicking method
 
 ### Welche möglichen Anwendungskonsequenzen sind mit dem GOMS-Modell Verbunden?
 
 ### Nennen Sie drei Kritikpunkte am GOMS-Modell.
+- reduktionistischer Ansatz
+- Beschränkung auf fehlerfreies Modellverhalten
+- eingeschränkte Validität der Modellannahmen
