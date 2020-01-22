@@ -29,10 +29,23 @@
 ### Welche Konsequenzen ergeben sich aus dem Handlungsphasenmodell von D.A. Norman für die Gestaltung interaktiver Systeme?
 
 ### Erläutern Sie die Modellkomponenten von Fitts' Gesetz.
+- distance to target (A)
+- size of target (W)
+- indexx of difficulty (ID): log(A/W + 1)
+- movement time (MT): a + b * ID
+    - a --> schätzt Start/Stop Zeit
+    - b --> Geschwindigkeit des Geräts
+
+Mit steigender Distanz zum Ziel bzw. fallender Größe des Ziels steigt die Schwierigkeit (ID).
+Die Bewegungsdauer (MT) ergibt sich aus der Start/Stop Zeit und der Schwierigkeit (ID).
 
 ### Welche Modellkomponenten von Fitts' Gesetz sind für die Evaluation von Zeigegeräten aussagekräftig? Warum?
+- ID (index of difficulty)
+- MT (movement time)
+Aus ID und MT ergibt sich der "Index of Performance" (IP): IP = ID / MT, welcher dazu geeignet ist, die Leistung von Zeigegeräten zu evaluieren.
 
 ### Welche Konsequenzen ergeben sich aus Fitts' Gesetz für die Gestaltung von Benutzungsoberflächen?
+Mit steigender Schwierigkeit (ID), steigt auch die "Movement-Time" (MT), d.h. es sollte die Schwierigkeit möglichst gering gehalten werden. Dies gelingt, indem bei steigender Distanz A auch die Größe des Targets W steigt. Grundsätzlich ist es empfehlenswert, die Distanz gering zu halten.
 
 ### Erläutern Sie das GOMS-Modell an Hand der Kernkomponenten des Modells.
 Methode, um eine Aufgabe und das Wissen des Nutzers, wie man diese Aufgabe löst, zu beschreiben.
