@@ -8,7 +8,7 @@ Einführung von Software kann Redesign von Arbeitstätigkeiten beinhalten.
 
 **Technikorientiertes Konzepte:**
 
-- Ersetzung menschlicher Arbeit durch Technik, größtmögliche Automatisierung
+- Ersetzung menschlicher Arbeit durch Technik (Automatisierung)
 - Mensch als Lückenbüßer
 - Folgen: Gleichförmigkeit der Arbeitsabläufe bzw. verstärkte Einseitigkeit der
   Inanspruchnahme von Fähigkeiten und damit Stress und Monotonie
@@ -16,6 +16,8 @@ Einführung von Software kann Redesign von Arbeitstätigkeiten beinhalten.
 **Arbeitsorientiertes Konzepte:**
 
 - Entwicklung von Arbeitsmitteln, Arbeitsstrukturen und menschlichen Qualifikationen in ihrer Interpedenz, gemeinsame Optimierung
+- Gesucht ist die optimale Funktionsverteilung zwischen Mensch und Computer
+- Gestaltungsziel: Bestmögliche rechnergestützte Arbeit (Beanspruchungen, Gesundheit)
 
 **Nennen Sie mögliche Belastungsquellen und Stressoren, die mit der Einführung interaktiver Computersystemen am Arbeitsplatz verbunden sein können.**
 
@@ -86,10 +88,10 @@ Einführung von Software kann Redesign von Arbeitstätigkeiten beinhalten.
 
 **Nennen Sie arbeitspsychologische Kriterien für die Gestaltung von Arbeit.**
 
-- Ausführbarkeit (Berücksichtigung anthropometischer Normen)
-- Schädigungslosigkeit (Vermeidung physischer Erkrankungen)
-- Beeinträchtigungsfreiheit (Vermeidung von Über- und Unterforderung)
-- Persönlichkeitsförderlichkeit (Schaffung von Entscheidungsspielraum, Anforderungsvielfalt, Möglichkeit für soz. Kontakte, ...)
+- **Ausführbarkeit** (Berücksichtigung anthropometischer Normen)
+- **Schädigungslosigkeit** (Vermeidung physischer Erkrankungen)
+- **Beeinträchtigungsfreiheit** (Vermeidung von Über- und Unterforderung)
+- **Persönlichkeitsförderlichkeit** (Schaffung von Entscheidungsspielraum, Anforderungsvielfalt, Möglichkeit für soz. Kontakte, ...)
 
 **Welche Qualitäten sollten Aufgaben nach ISO 9241-2 aufweisen?**
 
