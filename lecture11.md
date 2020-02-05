@@ -10,11 +10,11 @@
 
 **Unterscheiden sie unterschiedliche Ebenen für die konzeptionelle Gestaltung interaktiver Systeme (z.B. activity, information, interaction Design) im Usability-Engineering.**
 
-- **Activity**
+- **Activity**: Grundkonzept und Funktionalitäten des neuen Systems
 
-- **Information**
+- **Information**: Informationsdarstellung wird einbezogen
 
-- **Interaction**
+- **Interaction**: Beschreibung der Benutzung des Systems
 
 **Was versteht man unter einem Prototyp?**
 
@@ -61,6 +61,6 @@ Frühe, unter Vernachlässigung von Qualitätseigenschaften und oft vorläufig e
 
 **Unterscheiden Sie beispielhaft drei unterschiedliche Formen von Prototypen und erläutern Sie deren mögliche Anwendung im Usability-Engineering an Hand von Beispielen.**
 
-- **Storyboard**: Visualisierung eines Konzeptes
+- **Storyboard**: Visualisierung eines Konzepts
 - **Videoprototypen**: Videodarstellung einer Software inkl. Nutzungsmöglichkeiten
 - **Mock Up**: Vorführmodell, das genutzt wird, um Design / Funktionen eines geplanten Produktes zu demonstrieren
