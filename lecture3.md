@@ -19,7 +19,7 @@ Einführung von Software kann Redesign von Arbeitstätigkeiten beinhalten.
 - Gesucht ist die optimale Funktionsverteilung zwischen Mensch und Computer
 - Gestaltungsziel: Bestmögliche rechnergestützte Arbeit (Beanspruchungen, Gesundheit)
 
-**Nennen Sie mögliche Belastungsquellen und Stressoren, die mit der Einführung interaktiver Computersystemen am Arbeitsplatz verbunden sein können.**
+**Nennen Sie mögliche Belastungsquellen und Stressoren, die mit der Einführung interaktiver Computersysteme am Arbeitsplatz verbunden sein können.**
 
 **Physische Belastungen:**
 
@@ -103,6 +103,6 @@ Einführung von Software kann Redesign von Arbeitstätigkeiten beinhalten.
 **Was sollte nach ISO 9241-2 bei der Gestaltung von Aufgaben vermieden werden?**
 
 - Über- und Unterforderung
-- unangemessene ständige Wiederholung, die zu Monotonie und Sättigungsempfindungen, Langeweile und Unzufriedenheit führen können
+- unangemessene ständige Wiederholung, die zu Monotonie führen können
 - unangemessener Zeitdruck
 - Einzelarbeit ohne Gelegenheit zu sozialen Kontakten
