@@ -10,14 +10,13 @@ Einführung von Software kann Redesign von Arbeitstätigkeiten beinhalten.
 
 - Ersetzung menschlicher Arbeit durch Technik (Automatisierung)
 - Mensch als Lückenbüßer
-- Folgen: Gleichförmigkeit der Arbeitsabläufe bzw. verstärkte Einseitigkeit der
-  Inanspruchnahme von Fähigkeiten und damit Stress und Monotonie
+- Folgen: Gleichförmigkeit der Arbeitsabläufe --> Monotonie
 
 **Arbeitsorientiertes Konzepte:**
 
-- Entwicklung von Arbeitsmitteln, Arbeitsstrukturen und menschlichen Qualifikationen in ihrer Interpedenz, gemeinsame Optimierung
+- Entwicklung von Arbeitsmitteln, -strukturen und menschlichen Qualifikationen in ihrer Interpedenz, gemeinsame Optimierung
 - Gesucht ist die optimale Funktionsverteilung zwischen Mensch und Computer
-- Gestaltungsziel: Bestmögliche rechnergestützte Arbeit (Beanspruchungen, Gesundheit)
+- Gestaltungsziel: Bestmögliche rechnergestützte Arbeit (Beanspruchung, Gesundheit)
 
 **Nennen Sie mögliche Belastungsquellen und Stressoren, die mit der Einführung interaktiver Computersysteme am Arbeitsplatz verbunden sein können.**
 
