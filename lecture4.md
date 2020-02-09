@@ -2,13 +2,13 @@
 
 **Wozu dienen Normen in der MCI?**
 
-- Geben Entwicklern Hinweise, für die Gestaltung benutzbarer und gebrauchstauglicher Software
+- Geben Entwicklern Hinweise für die Gestaltung gebrauchstauglicher Software
 - Sichern Qualität
 - Schaffen Verbindlichkeit
 
 **Welchen Charakter bezüglich der enthaltenen Forderungen haben ergonomische Normen?**
 
-Richtliniencharakter, d.h. es wird keine präzise Festlegung von (quantitativen) Produkteigenschaften vorgenommen, weil:
+Richtliniencharakter, d.h. es wird keine präzise Festlegung von Produkteigenschaften vorgenommen, weil:
 
 - Gestaltungsspielraum erhalten bleiben soll
 - kein bestimmtes SW-Produkt genormt werden soll
