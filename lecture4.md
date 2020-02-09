@@ -30,9 +30,7 @@ Ausmaß, in dem ein Produkt durch bestimmte Benutzer in einem bestimmten Nutzung
 **Erläutern Sie die Kerndefinitionsmerkmale der Gebrauchstauglichkeit (Usability) nach ISO 9241-11.**
 
 - **Effektivität:** Genauigkeit, mit der Benutzer ein bestimmtes Ziel erreichen
-
 - **Effizienz:** Der im Verhältnis zur Genauigkeit eingesetzte Aufwand, mit dem Benutzer ein bestimmtes Ziel erreichen
-
 - **Zufriedenheit:** Freiheit von Beeinträchtigungen und positive Einstellung gegenüber der Nutzung des Produkts
 
 
