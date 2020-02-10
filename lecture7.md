@@ -11,6 +11,8 @@
 
 **Worin bestehen Vorteile von GUIs (im Gegensatz zu CUIs) aus gedächtnispsychologischer Perspektive?**
 
+- ermöglichen Wiedererkennen (recognition) im Gegensatz zu Erinnern (recall)
+
 **Definieren Sie den Begriff des Fehlers aus psychologischer Perspektive.**
 
 Ereignisse, in denen eine geplante Abfolge mentaler oder physischer Aktivitäten nicht zum intendierten Ergebnis führt, und dies nicht einer dritten Einfluss nehmenden Größe zugeschrieben werden kann.
