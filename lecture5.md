@@ -1,6 +1,6 @@
 # MENSCHLICHE INFORMATIONSVERARBEITUNG UND HANDLUNGSPROZESSE I
 
-**Wie könnenn bottom-up und top-down Prozesse visueller Wahrnehmung bei der Gestaltung von Benutzungsschnittstellen Berücksichtigung erfahren?**
+**Wie können bottom-up und top-down Prozesse visueller Wahrnehmung bei der Gestaltung von Benutzungsschnittstellen Berücksichtigung erfahren?**
 
 - Hebe Informationen hervor, die zu einem bestimmten Zeitpunkt bei einer Aufgabenbearbeitung Beachtung erfahren sollten
 - Nutze Techniken wie: Animation, Farbe, Hervorhebung (Unterstreichung), Anordnung (Reihenfolgen, Abstände) von Elementen

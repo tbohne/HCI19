@@ -43,7 +43,7 @@ Ausmaß, in dem ein Produkt durch bestimmte Benutzer in einem bestimmten Nutzung
 
 **Nennen Sie Maße der Gebrauchstauglichkeit von Produkten nach ISO 9241-11.**
 
-- **Effektivität:** Ziele oder Teilziele des Benutzers ins Verhältnis zur Genauigkeit und Vollständigkeit, mit der diese Ziele erreicht werden können, setzen.
+- **Effektivität:** Ziele des Benutzers ins Verhältnis zur Genauigkeit, mit der diese Ziele erreicht werden können, setzen.
 - **Effizienz:** Den erreichten Grad der Effektivität ins Verhältnis zum Aufwand an Ressourcen setzen.
 - **Zufriedenstellung:** Das Ausmaß, in dem Benutzer von Beeinträchtigungen frei sind, und ihre Einstellung zum Produkt beschreiben.
 
@@ -67,7 +67,7 @@ Ausmaß, in dem ein Produkt durch bestimmte Benutzer in einem bestimmten Nutzung
 - Konsistenz
 - ...
 
-**--> 9241-12 unterstützt 9241-10 unterstützt 9241-11**
+**--> 9241-12 unterstützt 9241-110 unterstützt 9241-11**
 
 **Was kann man an Normen in der MCI kritisieren?**
 
