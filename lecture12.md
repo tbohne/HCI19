@@ -2,11 +2,9 @@
 
 **Unterscheiden Sie den Ansatz der summativen Evaluation und der formativen Evaluation in der Mensch-Computer Interaktion.**
 
-* summativ
-    - how good? 
-    - bewertet in Bezug auf ein Kriterium
-* formativ
-  - why bad?
+* **summativ** (how good? )
+    - Bewertung der Usability des Produkts
+* **formativ** (why bad?)
   - Identifikation möglicher Probleme, die bei der Nutzung auftreten können
 
 **Nennen Sie Kriterien und Maße zur Bestimmung der Usability, die im Rahmen der Verhaltensbeobachtung Verwendung finden.**
@@ -23,14 +21,14 @@
 
 **Nennen Sie deskriptive Methoden zur Bewertung von Software.**
 
-- verhaltensbasiert
+- **verhaltensbasiert**
   - Verhaltensbeobachtungen
   - Methode des lauten Denkens
   - Videokonfrontation
-- meinungsbasiert
+- **meinungsbasiert**
   - Interviews
   - Fragebogenverfahren
-- Usability-Tests
+- **Usability-Tests**
   - Kombination aus verhaltens- und meinungsbasierten Methoden
 
 **Nennen Sie prädiktive Methoden zur Bewertung von Software.**
