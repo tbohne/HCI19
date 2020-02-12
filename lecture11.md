@@ -4,16 +4,14 @@
 
 - **Entwicklung eines konzeptionellen Modells**
   - basiert auf Anforderungserhebung
-  - beschreibt, was ein Produkt können soll (Funktionalitäten), welche Informationen verarbeitet werden und wie Nutzer*innen mit ihm interagieren (Interface, Metaphern,  Interaktionstechniken) können sollen etc.
+  - beschreibt, was ein Produkt können soll (Funktionalitäten), welche Informationen verarbeitet werden und wie Nutzer*innen mit ihm interagieren können
 - **Physikalisches Design**
   - Benutzungsschnittstelle, Bildschirmaufbau, Menüstrukturen, Icons und graphisches Design
 
 **Unterscheiden sie unterschiedliche Ebenen für die konzeptionelle Gestaltung interaktiver Systeme (z.B. activity, information, interaction Design) im Usability-Engineering.**
 
 - **Activity**: Grundkonzept und Funktionalitäten des neuen Systems
-
 - **Information**: Informationsdarstellung wird einbezogen
-
 - **Interaction**: Beschreibung der Benutzung des Systems
 
 **Was versteht man unter einem Prototyp?**
@@ -23,34 +21,27 @@ Frühe, unter Vernachlässigung von Qualitätseigenschaften und oft vorläufig e
 **Welchen Zwecken können Prototypen im Usability-Engnieering dienen?**
 
 - machen Gestaltungsideen sicht- und erfahrbar (Manifestation von Gestaltungsideen)
-
 - effektiver Weg für Designer, um Gestaltungsideen zu explorieren und die Machbarkeit zu überprüfen
-
 - helfen Entwicklern, zwischen Alternativen zu wählen
-
 - prüfen, ob Designentscheidungen kompatibel mit dem Rest der Produktentwicklung sind
-
 - helfen unscharfe Requirements zu klären
-
 - Kommunikationshilfsmittel zwischen Designern und Nutzern
-
 - ermöglichen User-Testing und Evaluation
-
 - ermöglichen es, Designentwürfe systematisch zu evaluieren
 
 **Nennen und erläutern Sie unterschiedliche Arten von Prototypen (mit Bezug auf die Realitätsnähe).**
 
 - **low fidelity**
-  - stellen primär Gestaltungskonzepte in Form von Skizzen dar
-  - verfügen über keine oder nur stark eingeschränkte Funktionalität
-  - interaktive Elemente werden lediglich simuliert
-  - vermitteln eher einen allgemeinen optischen oder konzeptuellen Eindruck
+  - Gestaltungskonzepte in Form von Skizzen
+  - keine / stark eingeschränkte Funktionalität
+  - interaktive Elemente simuliert
+  - vermitteln konzeptuellen Eindruck
 
 - **high fidelity**
   - Erscheinungsbild / Funktionalität ähnelt finalem Produkt
-  - verfügen über interaktive Benutzungsschnittstelle
-  - ermöglichen Dateneingaben oder die Auswahl von Menüpunkten
-  - vermitteln ein direkteres Gefühl für die Handhabung
+  - interaktive Benutzungsschnittstelle
+  - ermöglichen Dateneingaben
+  - vermitteln direkteres Gefühl für die Handhabung
 
 - **mixed fidelity**
   - Grad der visuellen Verfeinerung
