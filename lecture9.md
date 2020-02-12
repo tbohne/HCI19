@@ -32,10 +32,14 @@
 **Unter welchen Bedingungen ist die Verwendung eines Kommandodialogs sinnvoll? Nennen Sie fünf Gründe.**
 
 1.) wenn nicht vorausgesagt werden kann, welche Aktionen Benutzer im Dialog benötigt
+
 2.) wenn direkte Auswahl oder rascher Zugriff auf bestimmte Systemfunktionen erforderlich ist
+
 3.) wenn Erweiterbarkeit der Funktionen erforderlich ist
-4.) ...
-5.) ...
+
+4.) Protokoll der ausgeführten Aktionen benötigt wird
+
+5.) kein direkter Zugriff auf das System gegeben ist (remote terminal)
 
 **Nennen Sie Aspekte, die bei der Gestaltung von Kommandodialogen berücksichtigt werden sollten.**
 
