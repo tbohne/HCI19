@@ -5,7 +5,7 @@
 - **deskriptive Modelle** (Analogien und Metaphern)
   - **Handlungsphasenmodell:** Modell für Beschreibung menschlicher Handlungen mithilfe technischer Systeme
 - **prädiktive Modelle** (z.B. mathematische Gleichungen)
-  - **Fitt's Law:** Model of human movement which predicts the time required to rapidly move to a target area
+  - **Fitt's Law:** Modell menschlicher Bewegung, welches die Zeit vorhersagt, die benötigt wird, um schnell eine Zielfläche zu erreichen (mit einem Pointing-Device, z.B. Maus)
 
 **Welche möglichen Funktionen haben (Nutzer-)Modelle in der MCI?**
 
@@ -20,16 +20,24 @@
 - Transformationen von der Zielsetzung zu konkreten Eingabehandlungen über die Wahrnehmung von Systemausgaben bis zur Bewertung
 
 **Gulf of execution:** Mismatch zwischen den Intentionen des Nutzers und den erlaubten Aktionen
+
 **Gulf of evaluation:** Mismatch zwischen dem vom Nutzer erwarteten Verhalten und dem tatsächlichen Systemverhalten
 
 **Handlungsziel**
---> Absicht zu handeln --> Spezifikation der Handlung --> Ausführung der Handlung &nbsp;&nbsp;&nbsp;&nbsp; **(intention)**
+--> Absicht zu handeln --> Spezifikation der Handlung --> Ausführung der Handlung &nbsp;&nbsp;&nbsp;&nbsp; **(execution)**
 --> Wahrnehmung --> Interpretation --> Bewertung &nbsp;&nbsp;&nbsp;&nbsp; **(evaluation)**
 --> **Handlungsziel**
 
 **Anwendung:** Gestaltung und Evaluation
 
 **Welche Konsequenzen ergeben sich aus dem Handlungsphasenmodell von D.A. Norman für die Gestaltung interaktiver Systeme?**
+
+- Ask Design Questions
+  - **Handlungsplanung**: Ist klar, was zu tun ist, um mit einer Handlung beginnen zu können?
+  - **Übersetzung der Handlungsabsicht**: Ist klar, wie die geplante Handlung umgesetzt werden kann?
+  - **Ergebnisbewertung**: Ist erkennbar, ob das Handlungsziel erreicht wurden?
+  - **Verstehen der Systemrückmeldung**: Wird die Systemrückmeldung wahrgenommen / verstanden?
+  - **Handlungsausführung**: Kann der Nutzer die Handlung einfach ausführen?
 
 **Erläutern Sie die Modellkomponenten von Fitts' Gesetz.**
 
@@ -47,6 +55,7 @@ Die Bewegungsdauer (MT) ergibt sich aus der Start/Stop Zeit und der Schwierigkei
 
 - ID (index of difficulty)
 - MT (movement time)
+
 Aus ID und MT ergibt sich der "Index of Performance" (IP): IP = ID / MT, welcher dazu geeignet ist, die Leistung von Zeigegeräten zu evaluieren.
 
 **Welche Konsequenzen ergeben sich aus Fitts' Gesetz für die Gestaltung von Benutzungsoberflächen?**
@@ -89,6 +98,12 @@ The fox jumps over the lazy quick brown dog.
     - else use all-clicking method
 
 **Welche möglichen Anwendungskonsequenzen sind mit dem GOMS-Modell Verbunden?**
+
+- Aufgaben innerhalb von Anwendungen müssen in einer Weise designt werden, die sich mit dem GOMS-Modell beschreiben lässt (müssen in das Framework passen)
+  - z.B.:
+    - Teilziele
+    - Operatoren
+    - versch. Methoden
 
 **Nennen Sie drei Kritikpunkte am GOMS-Modell.**
 
