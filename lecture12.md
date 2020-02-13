@@ -50,7 +50,7 @@ Ein Usability-Problem liegt dann vor, wenn eine Software die Handlung des Nutzer
 **Beschreiben Sie die Funktionsweise der Methode des Lauten Denkens zur Identifikation von Usability Problemen.** 
 
 - **Ziel**: Erfassung bewusster handlungsbegleitender Kognitionen
-- **Idee**: Nutzer sollen Gedanken verbalisieren, die sich auf die Bedienung der Software und Bearbeitung der Aufgaben richtet
+- **Idee**: Nutzer sollen Gedanken verbalisieren, die sich auf die Bedienung der Software und Bearbeitung der Aufgaben richten
 - Verbalisierungen werden aufgezeichnet
 - Von Verbalisierungen wird auf Usability-Probleme geschlossen
 
@@ -70,8 +70,8 @@ Ein Usability-Problem liegt dann vor, wenn eine Software die Handlung des Nutzer
 
 **Nennen Sie wichtige Inhalte, die ein Usability-Report enthalten sollte.**
 
-- das evaluierte Produkt
-- die Test-Ziele
+- evaluiertes Produkt
+- Test-Ziele
 - betrachtete Nutzeranforderungen
 - verwendete Methoden
 - Befunde
