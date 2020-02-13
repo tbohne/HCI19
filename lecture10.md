@@ -11,12 +11,9 @@
 
 **Erläutern Sie die Grundsätze menschenzentrierter Gestaltung nach ISO 9241-210.**
 
-- Gestaltung basiert auf umfassendem Verständnis der Nutzer, Aufgaben und Umgebungen
-- Benutzer werden während der Gestaltung einbezogen
-- Verfeinern der Gestaltungslösungen wird fortlaufend auf Basis der benutzerorientierten Evaluation vorangetrieben
-- iterativer Prozess
-- die gesamte UX wird berücksichtigt
-
+- Analyse des Nutzungskontexts / der Nutzeranforderungen
+- Gestaltung basierend auf der Analyse
+- Evaluation der Gestaltungslösung
 
 **Worauf bezieht sich die Analyse des Nutzungskontexts?**
 
